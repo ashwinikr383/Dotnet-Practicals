@@ -1,0 +1,14 @@
+C:\Users\a2376\OneDrive\Desktop\collage\Dotnet practicles\ExpenseTracking\bin\Debug\net10.0\ExpenseTracking.exe
+C:\Users\a2376\OneDrive\Desktop\collage\Dotnet practicles\ExpenseTracking\bin\Debug\net10.0\ExpenseTracking.deps.json
+C:\Users\a2376\OneDrive\Desktop\collage\Dotnet practicles\ExpenseTracking\bin\Debug\net10.0\ExpenseTracking.runtimeconfig.json
+C:\Users\a2376\OneDrive\Desktop\collage\Dotnet practicles\ExpenseTracking\bin\Debug\net10.0\ExpenseTracking.dll
+C:\Users\a2376\OneDrive\Desktop\collage\Dotnet practicles\ExpenseTracking\bin\Debug\net10.0\ExpenseTracking.pdb
+C:\Users\a2376\OneDrive\Desktop\collage\Dotnet practicles\ExpenseTracking\obj\Debug\net10.0\ExpenseTracking.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\a2376\OneDrive\Desktop\collage\Dotnet practicles\ExpenseTracking\obj\Debug\net10.0\ExpenseTracking.AssemblyInfoInputs.cache
+C:\Users\a2376\OneDrive\Desktop\collage\Dotnet practicles\ExpenseTracking\obj\Debug\net10.0\ExpenseTracking.AssemblyInfo.cs
+C:\Users\a2376\OneDrive\Desktop\collage\Dotnet practicles\ExpenseTracking\obj\Debug\net10.0\ExpenseTracking.csproj.CoreCompileInputs.cache
+C:\Users\a2376\OneDrive\Desktop\collage\Dotnet practicles\ExpenseTracking\obj\Debug\net10.0\ExpenseTracking.dll
+C:\Users\a2376\OneDrive\Desktop\collage\Dotnet practicles\ExpenseTracking\obj\Debug\net10.0\refint\ExpenseTracking.dll
+C:\Users\a2376\OneDrive\Desktop\collage\Dotnet practicles\ExpenseTracking\obj\Debug\net10.0\ExpenseTracking.pdb
+C:\Users\a2376\OneDrive\Desktop\collage\Dotnet practicles\ExpenseTracking\obj\Debug\net10.0\ExpenseTracking.genruntimeconfig.cache
+C:\Users\a2376\OneDrive\Desktop\collage\Dotnet practicles\ExpenseTracking\obj\Debug\net10.0\ref\ExpenseTracking.dll
