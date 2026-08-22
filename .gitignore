@@ -1,0 +1,36 @@
+# Visual Studio and build output
+.vs/
+**/bin/
+**/obj/
+
+# User-specific files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Test and coverage output
+TestResults/
+coverage/
+
+# NuGet packages restored locally
+**/packages/
+packages/
+
+# Temporary and generated files
+*.tmp
+*.temp
+*.log
+*.cache
+*.pdb
+*.nupkg
+
+# Local publish output
+publish/
+artifacts/
+
+# Other local practicals are outside this repository's requested scope
+AcadmicCalander/
+Exp2/
+LeaveManagement/
+Dotnet practicles/
